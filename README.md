@@ -1,4 +1,4 @@
-# Gaussian-processes-using-libraries.
+# Gaussian-processes.
 Classification of MNIST dataset using libraries. 
 First if you do not have the data, set the downlaod flag to true.
 The 'our_script.py' code provides the basic gaussian classifier.
